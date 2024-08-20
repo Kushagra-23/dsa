@@ -13,3 +13,7 @@ function findLongestString(array) {
 let myString = ["apple", "banana", "pineapple"];
 
 console.log(findLongestString(myString));
+
+
+// Time complexity :- O(n)
+// Space complexity :- O(1)
